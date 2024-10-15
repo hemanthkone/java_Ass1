@@ -1,4 +1,4 @@
-//java program to find prime number or not
+//java program to print prime numbers in between two positive numbers
 /*
 file name:Primenumbers.java
 date:10/10/2024
